@@ -22,7 +22,7 @@ const customSkills = [
       "https://www.pngix.com/pngfile/big/95-951782_luciditynexus-pack-magic-circle-png-transparent-png.png",
     multiplier: {
       hp: "-10",
-      mp: "-10",
+      mp: "+10",
       exp: "-10",
       gp: "0"
     }
